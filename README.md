@@ -19,3 +19,4 @@ The goal is to evaluate how well AI-driven models can perform against traditiona
 <img width="585" alt="Screenshot 2024-10-02 at 17 27 43" src="https://github.com/user-attachments/assets/c9dbc0ee-a7c3-444c-a472-3cebda76d926">
 
 
+Darias, A. (2023, August 4). Desmond Bane is making good progress in his rehabilitation. nbamaniacs. https://www.nbamaniacs.com/en/news/Desmond-Bane-is-making-good-progress-in-his-rehabilitation/ 
